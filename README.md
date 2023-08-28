@@ -1,2 +1,2 @@
 # Python-Projects
-This repository is a series of projects that I've written in Python.
+This repository is a series of small projects that I've written in Python.
